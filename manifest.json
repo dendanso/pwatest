@@ -1,7 +1,7 @@
 {
     "name":"test",
     "short_name":"testApp",
-    "start_url":"./index.html",
+    "start_url":"./index.html/",
     "display":"standalone",
     "backgound_color":"#c63665",
     "theme_color":"#c63665",
